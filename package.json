@@ -1,6 +1,6 @@
 {
 	"name": "com.unity.test-package-pa",
-	"displayName": "Patate Manager",
+	"displayName": "Test Package, a.k.a.: Patate Manager",
 	"version": "0.0.1",
 	"unity": "2018.3",
 	"description": "Use the patate manager to manage your potatoes to perfection. Fry them, cook them, broil them or mash them with a single press of a button. ",
